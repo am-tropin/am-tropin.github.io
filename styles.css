@@ -55,8 +55,10 @@ section {
 .footer-links {
     text-align: center;
     padding: 20px;
-    background-color: #333;
+    background-color: #ecf9ec;
     color: #fff;
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center-align flex items horizontally */
 }
 
 .footer-links li {
