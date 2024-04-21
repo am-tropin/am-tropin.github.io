@@ -8,6 +8,7 @@ body {
     max-width: 80%; /* Set maximum width to 80% of the window width */
     margin: 0 auto; /* Center the container */
     padding: 20px; /* Add padding around the content */
+}
 
 nav {
     background-color: #ecf9ec;
