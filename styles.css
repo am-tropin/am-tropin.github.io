@@ -41,7 +41,11 @@ nav ul li a:hover {
 }
 
 section {
-    padding: 40px;
+/*     padding: 40px; */
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    padding: 20px;
 }
     
 /* .section { */
