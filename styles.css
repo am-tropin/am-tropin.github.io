@@ -22,7 +22,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #555;
     text-decoration: none;
     padding: 10px;
     border-radius: 5px;
@@ -30,7 +30,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #555;
+    background-color: #ccffcc;
 }
 
 section {
