@@ -44,7 +44,7 @@ nav ul li a:hover {
     padding: 40px;
 } */
     
-.section {
+/* .section {
     background-color: #ecf9ec;
     margin-left: 10%; /* Add left margin of 10% of window width */
     margin-right: 10%; /* Add right margin of 10% of window width */
@@ -52,7 +52,7 @@ nav ul li a:hover {
     padding: 20px; /* Add padding inside sections */
     border-radius: 8px; /* Optional: Add rounded corners */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
-}
+} */
     
 .projects-grid {
     display: grid;
