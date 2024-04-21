@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-    background-color: #e6ffe6;
+    background-color: #ecf9ec;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -30,7 +30,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #ccffcc;
+    background-color: #b3e6b3;
 }
 
 section {
