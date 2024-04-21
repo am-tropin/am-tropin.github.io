@@ -27,6 +27,7 @@ nav ul li a {
     padding: 10px;
     border-radius: 5px;
     transition: background-color 0.3s ease;
+    font-weight: bold; /* Make links bold */
 }
 
 nav ul li a:hover {
@@ -51,4 +52,25 @@ section {
 }
 
 
+.footer-links {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.footer-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-links li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold; /* Make links bold */
+}
+
+.footer-links li a:hover {
+    text-decoration: underline;
+}
 
