@@ -8,7 +8,6 @@ body {
     max-width: 80%; /* Set maximum width to 80% of the window width */
     margin: 0 auto; /* Center the container */
     padding: 20px; /* Add padding around the content */
-}
 
 nav {
     background-color: #ecf9ec;
@@ -40,10 +39,20 @@ nav ul li a:hover {
     background-color: #b3e6b3;
 }
 
-section {
+/* section {
     padding: 40px;
+} */
+    
+.section {
+    background-color: #ecf9ec;
+    margin-left: 10%; /* Add left margin of 10% of window width */
+    margin-right: 10%; /* Add right margin of 10% of window width */
+    margin-bottom: 20px; /* Add margin at the bottom */
+    padding: 20px; /* Add padding inside sections */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
 }
-
+    
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
